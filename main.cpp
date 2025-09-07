@@ -1,7 +1,8 @@
 //
 //  main.cpp
 //  Lab 3A
-//
+// COMSC-210 | Lab 3 A | Mehraj Hasan Nafi
+// IDE used: Xcode
 //  Created by Nafi on 9/6/25.
 //
 
